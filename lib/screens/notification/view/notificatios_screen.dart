@@ -24,6 +24,7 @@ class NotificationsScreen extends StatelessWidget {
           ],
         ),
         body: const BuyFullKit(
+          // images: [""],
           images: ["assets/screens/Notification.png"],
         ));
   }
